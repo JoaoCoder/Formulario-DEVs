@@ -39,10 +39,10 @@ fieldset {
 
 /* Elemento de tag <body> */
 body {
-  background-color: black;
+  background-color: rgb(0, 247, 255);
   font-family: sans-serif;
   font-size: 1em;
-  color: #3bffe5;
+  color: #000000;
 }
 
 .container{
